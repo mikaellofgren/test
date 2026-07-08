@@ -1,2 +1,3 @@
-# test
-Test för app koll
+{
+  "version": "1.0.1"
+}
